@@ -1,4 +1,4 @@
 <?php
 $configuration = array(
-    'approoturl' => 'http://<appname>.appspot.com'
+    'approoturl' => 'http://intense-subject-642.appspot.com'
 );
